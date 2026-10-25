@@ -1,4 +1,4 @@
-# AutomiteCreateProject
+# CreateProject
 
 This project is made for create folder and files with one command insted of create folder then create files, this project in fact creates folder first then files one by one.
 
@@ -16,4 +16,10 @@ chmod +x create_project.sh
 
 ```bash
 ./create_project.sh
+```
+
+## Clone repository
+
+```bash
+git clone [https://github.com/farhan2113/CreateProject.git](https://github.com/farhan2113/CreateProject.git)
 ```
